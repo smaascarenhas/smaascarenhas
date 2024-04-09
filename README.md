@@ -26,6 +26,6 @@
 Studying Data Science
 
 ## 📌 Último post:
-- [Cuidados ao Unir Tabelas no SQL](https://medium.com/@smascarenhas313/%EF%B8%8Fcuidados-ao-unir-tabelas-no-sql-9fd9aa468ee6)<br/>
+- [Introdução ao K-Nearest Neighbors (KNN) — Machine learning algorithm](https://medium.com/@smascarenhas313/introdu%C3%A7%C3%A3o-ao-k-nearest-neighbors-knn-machine-learning-23b0b33a97b5)<br/>
     
 
