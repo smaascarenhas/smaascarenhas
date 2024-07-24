@@ -18,14 +18,14 @@
     
     
 <!-- Portfolio -->
-## 🎯 Portfolio:
-[Link](https://smaascarenhas.github.io/portfolio_projetos/)
+## Portfolio:
+[➡️ Clique aqui para acessar o meu portfólio](https://smaascarenhas.github.io/portfolio_projetos/)
 
 <div><br/>
 
 Studying Data Science
 
 ## 📌 Último post:
-- [Introdução ao K-Nearest Neighbors (KNN) — Machine learning algorithm](https://medium.com/@smascarenhas313/introdu%C3%A7%C3%A3o-ao-k-nearest-neighbors-knn-machine-learning-23b0b33a97b5)<br/>
+- [Você sabe o que são Máscaras Booleanas? Descubra como Elas Podem Auxiliar sua Limpeza de Dados ](https://medium.com/@smascarenhas313/voc%C3%AA-sabe-o-que-s%C3%A3o-m%C3%A1scaras-booleanas-descubra-como-elas-podem-facilitar-sua-limpeza-de-dados-b0080c369f47)<br/>
     
 
