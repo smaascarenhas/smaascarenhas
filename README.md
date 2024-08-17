@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou Samir Mascarenhas
+### 👋 Olá! Eu sou Samir Mascarenhas e este é o meu repositório de projetos.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-mascarenhas/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@smascarenhas313)
@@ -18,14 +18,13 @@
     
     
 <!-- Portfolio -->
-## Portfolio:
-[➡️ Clique aqui para acessar o meu portfólio](https://smaascarenhas.github.io/portfolio_projetos/)
+## [➡️ Clique aqui para acessar o meu portfólio](https://smaascarenhas.github.io/portfolio_projetos/)
 
 <div><br/>
 
 Studying Data Science
 
 ## 📌 Último post:
-- [Você sabe o que são Máscaras Booleanas? Descubra como Elas Podem Auxiliar sua Limpeza de Dados ](https://medium.com/@smascarenhas313/voc%C3%AA-sabe-o-que-s%C3%A3o-m%C3%A1scaras-booleanas-descubra-como-elas-podem-facilitar-sua-limpeza-de-dados-b0080c369f47)<br/>
+- [Função de Custo Logarítmica](https://medium.com/@smascarenhas313/fun%C3%A7%C3%A3o-de-custo-logar%C3%ADtmica-c5fd303ec8ca)<br/>
     
 
