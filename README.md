@@ -3,7 +3,7 @@
 
 ## Minha experiência:
 
-🎯 Tenho experiência em trabalhar com Python, SQL, e suas bibliotecas para Análise de Dados <br>
+🎯 Tenho experiência em trabalhar com PowerBI, Excel, SQL, Python, e suas bibliotecas para Análise de Dados <br>
 🎲 Atuo como  analista de dados na Empresa Jr da Comunidade DS <br>
 📚 Estou estudando Ciência de Dados na UFMS (Universidade Federal de Mato Grosso do Sul) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para smascarenhas313@gmail.com <br>
