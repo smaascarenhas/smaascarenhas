@@ -1,8 +1,9 @@
 # Olá! Bem-vindo(a) ao meu repositório!
 <br>
+
 ## Minha experiência:
 
-🌐 Tenho experiência em trabalhar com Python, SQL, e suas bibliotecas para Análise de Dados <br>
+🎯 Tenho experiência em trabalhar com Python, SQL, e suas bibliotecas para Análise de Dados <br>
 🎲 Atuo como  analista de dados na Empresa Jr da Comunidade DS <br>
 📚 Estou estudando Ciência de Dados na UFMS (Universidade Federal de Mato Grosso do Sul) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para smascarenhas313@gmail.com <br>
@@ -20,10 +21,15 @@ Olá! Meu nome é Samir, tenho 24 anos e sou estudante de ciência de dados na U
 ### Hard Skills:
 
 Python (scikit-learn, pandas, numpy, matplotlib, seaborn, flask)
+
 SQL avançado
+
 Machine Learning (Modelos supervisionados, não supervisionados)
+
 Estatística descritiva e inferencial aplicada à análise de dados
+
 Excel e PowerBI
+
 Git & Version Control
 <br>
 
@@ -32,10 +38,15 @@ Git & Version Control
 ### Soft Skills:
 
 Comunicativo
+
 Trabalho em equipe
+
 Proatividade
+
 Senso de liderança
+
 Aprendo muito rápido
+
 Autodidata
 <br>
 
