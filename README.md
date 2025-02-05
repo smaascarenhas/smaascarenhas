@@ -84,7 +84,7 @@ Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou a
     
     
 <!-- Portfolio -->
-## [➡️ Clique aqui para acessar o meu portfólio](https://smaascarenhas.github.io/portfolio_projetos/)
+## [➡️ Clique aqui para acessar o meu portfólio](https://smaascarenhas.github.io/samir/)
 
 <div><br/>
 
