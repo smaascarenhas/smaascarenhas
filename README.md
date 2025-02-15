@@ -18,58 +18,16 @@ E não se esqueça de conferir o meu blog.
 
 Olá! Meu nome é Samir, tenho 24 anos e sou estudante de ciência de dados na Universidade Federal de Mato Grosso do Sul (média geral do curso: 9,4 ). <br>
 
-### Hard Skills:
 
-Python (scikit-learn, pandas, numpy, matplotlib, seaborn, flask)
+## Projetos
 
-SQL avançado
-
-Machine Learning (Modelos supervisionados, não supervisionados)
-
-Estatística descritiva e inferencial aplicada à análise de dados
-
-Excel e PowerBI
-
-Git & Version Control
-<br>
+- Previsão de Vendas Rossmann: (https://bit.ly/3Qh08uH) 
+- Modelagem de Risco de Crédito: (https://bit.ly/3X2mB26)
+- Previsão de Cotações de Fretes (https://bit.ly/4jYh4n8)
 
 <br>
 
-### Soft Skills:
-
-Comunicativo
-
-Trabalho em equipe
-
-Proatividade
-
-Senso de liderança
-
-Aprendo muito rápido
-
-Autodidata
 <br>
-
-<br>
-
-## Projetos em que atuei:
-
-Case Análise de Dados
-Case aprovado: Resolvi esse desafio utilizando PowerBI para tratar, limpar e manipular dados. O resultado final foi um relatório com os insights encontrados e 4 dashboards contenndo análise geral, de vendas, pedidos e churn.
-
-Previsão de Vendas Rossmann
-Implementação de um modelo que automatiza e aumenta em 10% a precisão das previsões de vendas das lojas para as próximas seis semanas, fornecendo dados mais confiáveis para o planejamento e gestão do orçamento.
-
-Business Case: Modelagem de Risco de Crédito
-Desenvolvi um modelo de análise de risco de crédito que estima a probabilidade de inadimplência dos clientes com base em seu comportamento histórico. O modelo utiliza técnicas de Machine Learning, e possui uma AUC de 0,76 e KS statistic de 0,43. Garantindo decisões de crédito mais seguras e melhor avaliação do risco.
-
-Análise de Dados com Streamlit
-Neste projeto, utilizei Python para manipulação e análise de dados de um marketplace de entregas. Implementei um dashboard com métricas de negócio e forneci insights para facilitar a tomada de decisões.
-<br>
-
-<br>
-
-Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico.
 
 ## Produção de Conteúdo:
 
