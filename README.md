@@ -16,7 +16,7 @@ E não se esqueça de conferir o meu blog.
 
 ## Sobre mim:
 
-Olá! Meu nome é Samir, tenho 24 anos e sou estudante de ciência de dados na Universidade Federal de Mato Grosso do Sul (média geral do curso: 9,4 ). <br>
+Olá! Meu nome é Samir, tenho 25 anos e sou estudante de ciência de dados na Universidade Federal de Mato Grosso do Sul. Tenho interesse especial por Machine Learning, visualização de dados e pela aplicação de estatística no contexto empresarial.   <br>
 
 
 ## Projetos
