@@ -23,12 +23,13 @@ Olá! Meu nome é Samir, tenho 25 anos e sou estudante de ciência de dados na U
 
 - **Previsão de Vendas Rossmann:** (https://bit.ly/3Qh08uH) 
 - **Modelagem de Risco de Crédito:** (https://bit.ly/3X2mB26)
-- **Ensaio de Machine Learning:** (https://github.com/smaascarenhas/ensaio_machine_learning)
+- **Ensaio de Machine Learning:** (https://bit.ly/3YRcC0S)
 - **Previsão de Cotações de Fretes:** (https://bit.ly/4jYh4n8)
 
 ## Estudos
 
-- **Álgebrea Linear:** (https://github.com/smaascarenhas/learning-repo/blob/main/linear_algebra.ipynb)
+- **Álgebrea Linear:** (https://bit.ly/4mpAzX8)
+- **Python, Pandas e Scikit-learn:** (https://bit.ly/43dQhM0)
 
 <br>
 
