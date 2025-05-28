@@ -25,6 +25,7 @@ Olá! Meu nome é Samir, tenho 25 anos e sou estudante de ciência de dados na U
 - **Modelagem de Risco de Crédito:** (https://bit.ly/3X2mB26)
 - **Ensaio de Machine Learning:** (https://bit.ly/3YRcC0S)
 - **Previsão de Cotações de Fretes:** (https://bit.ly/4jYh4n8)
+- **Visão Computacional** (https://bit.ly/4jlMIcU)
 
 ## Estudos
 
