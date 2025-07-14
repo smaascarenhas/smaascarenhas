@@ -26,6 +26,7 @@ Olá! Meu nome é Samir, tenho 25 anos e sou estudante de ciência de dados na U
 - **Ensaio de Machine Learning:** (https://bit.ly/3YRcC0S)
 - **Previsão de Cotações de Fretes:** (https://bit.ly/4jYh4n8)
 - **Visão Computacional** (https://bit.ly/4jlMIcU)
+- **Diminuição de Turnover de colaboradores** (http://bit.ly/4eMYCvN)
 
 ## Estudos
 
@@ -49,11 +50,11 @@ Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou a
     
     
 <!-- Portfolio -->
-## [➡️ Clique aqui para acessar o meu portfólio](https://smaascarenhas.github.io/portfolio_projetos/)
+## [➡️ Clique aqui para acessar o meu portfólio](https://www.datascienceportfol.io/samirmascarenhas)
 
 <div><br/>
 
 ## 📌 Último post:
-- [Função de Custo Logarítmica](https://medium.com/@smascarenhas313/fun%C3%A7%C3%A3o-de-custo-logar%C3%ADtmica-c5fd303ec8ca)<br/>
+- [People Analytics | Diminuição de Turnover de colaboradores](https://medium.com/@smascarenhas313/people-analytics-diminui%C3%A7%C3%A3o-de-turnover-de-colaboradores-f5b5911689a2)<br/>
     
 
